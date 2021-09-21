@@ -51,5 +51,5 @@ dependencies {
     //RXKotlin dependency
     implementation "io.reactivex.rxjava3:rxkotlin:3.0.0"
     //fragment dependency
-    implementation 'androidx.fragment:fragment-ktx:1.3.0-beta01'
+    implementation 'androidx.fragment:fragment-ktx:1.4.0-alpha09'
 }
